@@ -1,4 +1,7 @@
 # vision-part-for-ZHONGKONG
+This is the vision part for mobile robot based on opencv
+the main idea for detection is using color channels and blocking matching
+
 这是大二参加中控杯的视觉部分，串口未完成所以最终未使用。
 在visual studio中DEBUGx64编译使用opencv通过颜色和特征匹配判断
 
@@ -16,5 +19,3 @@ ad钙奶，绿色红色一定范围，会跟魔方同
 ad钙奶，哇哈哈，魔方用surf识别
 与哇哈哈，AD钙奶模范匹配，剩余的为魔方
 
-This is the vision part for mobile robot based on opencv
-the main idea for detection is using color channels and blocking matching
